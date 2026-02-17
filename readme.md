@@ -65,7 +65,7 @@
 ## Section 6.4.8 | Fire Enclosure
 ### Video:  
 ### Slide:  
-### Quiz:  
+### Quiz: https://notebooklm.google.com/notebook/df319cb2-f3c1-4549-8c1d-50477094e864?artifactId=91eb3949-0650-4415-878f-45982905e523
 ***
 ## Section 6.5 | Wiring
 ### Video: https://notebooklm.google.com/notebook/0df01320-f3c9-432b-98dc-b7f6591d96f0?artifactId=433499ff-f165-4403-b02d-a4e48c428cfd
