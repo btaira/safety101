@@ -128,13 +128,13 @@
 ### Quiz: https://notebooklm.google.com/notebook/bf849418-a83c-4251-86c8-05fb229dc233?artifactId=1f2450cb-5483-4849-a424-e5d8166b98d9
 ***
 ## Annex S | Resistance to Fire
-### Video: 
+### Video: https://notebooklm.google.com/notebook/b81d1613-b580-4251-8dd4-46070a0fdb8b?artifactId=5a656504-d1e5-4ca1-a526-2fbdbab7f401
 ### Slide: https://notebooklm.google.com/notebook/b81d1613-b580-4251-8dd4-46070a0fdb8b?artifactId=208e7d63-305c-4e57-9eb1-2361a3626a05
 ### Quiz: https://notebooklm.google.com/notebook/b81d1613-b580-4251-8dd4-46070a0fdb8b?artifactId=11f2a572-2211-4b41-aa83-c5a104de868b
 ***
 ## Annex T | Mechanical Tests
 ### Video: 
-### Slide: 
+### Slide: https://notebooklm.google.com/notebook/2fb716ca-1aa4-428b-a695-d4dab0ee3510?artifactId=b546f5ed-dd07-49e6-a485-d9e9d786952b
 ### Quiz: https://notebooklm.google.com/notebook/2fb716ca-1aa4-428b-a695-d4dab0ee3510?artifactId=ef2ca800-ec21-4d15-a250-c401f3fb30d9
 ***
 ## Annex V | Accessible Parts
@@ -142,10 +142,10 @@
 ### Slide: 
 ### Quiz: https://notebooklm.google.com/notebook/b3330074-ae33-4ece-9901-a00f7026777a?artifactId=03d54dba-086b-4be4-a91b-213be0d17d0e
 ***
-## Annex x | tb
+## Annex Y.5 | Equipment within an Outdoor Enclosure
 ### Video: 
 ### Slide: 
-### Quiz: 
+### Quiz: https://notebooklm.google.com/notebook/96f12307-f53d-4938-801e-8d7fcc0b8645?artifactId=d01d2f2e-55f0-4fc9-abd4-6be38c4f871c
 ***
 ## Annex x | tb
 ### Video: 
