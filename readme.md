@@ -59,7 +59,7 @@
 ***
 ## Section 6 | Fire
 ### Video: https://notebooklm.google.com/notebook/96587281-52f1-4fd2-98f7-a7e9e85808ae?artifactId=15e9d893-0c94-4bcb-93c1-9a7017a30f41
-### Slide: 
+### Slide: https://notebooklm.google.com/notebook/96587281-52f1-4fd2-98f7-a7e9e85808ae?artifactId=68d69194-8648-4bef-9931-1e3edcdeab85
 ### Quiz: https://notebooklm.google.com/notebook/96587281-52f1-4fd2-98f7-a7e9e85808ae?artifactId=7e01bb1a-bdbc-46a5-9040-4e390bc66253
 ***
 ## Section 6.4.8 | Fire Enclosure
@@ -67,43 +67,88 @@
 ### Slide: https://notebooklm.google.com/notebook/df319cb2-f3c1-4549-8c1d-50477094e864?artifactId=3f3d6ff3-c7c3-4f27-a42f-30df15b08214
 ### Quiz: https://notebooklm.google.com/notebook/df319cb2-f3c1-4549-8c1d-50477094e864?artifactId=cbaa2370-8233-47d2-87db-8422cc010d58
 ***
-## Section x | tbd
-### Video: 
-### Slide: 
-### Quiz:
+## Section 6.5 | Wiring
+### Video: https://notebooklm.google.com/notebook/0df01320-f3c9-432b-98dc-b7f6591d96f0?artifactId=433499ff-f165-4403-b02d-a4e48c428cfd
+### Slide: https://notebooklm.google.com/notebook/0df01320-f3c9-432b-98dc-b7f6591d96f0?artifactId=27240d82-b8a4-4026-8f39-3f816c72eb8a
+### Quiz: https://notebooklm.google.com/notebook/0df01320-f3c9-432b-98dc-b7f6591d96f0?artifactId=c7de2821-fb28-4729-9d22-5efc9f3ee2ce
 ***
-## Section x | tbd
-### Video: 
-### Slide: 
-### Quiz:
+## Section 7 | Hazardous Substances
+### Video: https://notebooklm.google.com/notebook/531c2f34-6ce3-48ef-a906-4efe40c7d1e2?artifactId=5d5d7abb-920b-4e56-ade6-3aa38148d521
+### Slide: https://notebooklm.google.com/notebook/531c2f34-6ce3-48ef-a906-4efe40c7d1e2?artifactId=53e7f517-984a-4647-ac44-857cb992cc31
+### Quiz: https://notebooklm.google.com/notebook/531c2f34-6ce3-48ef-a906-4efe40c7d1e2?artifactId=b226abdc-b6dc-4d64-a339-24c36fbd4040
 ***
-## Section x | tbd
-### Video: 
-### Slide: 
-### Quiz:
+## Section 8 | Mechanical
+### Video: https://notebooklm.google.com/notebook/55c9530b-5134-494c-a3c3-237acd8fd8d5?artifactId=60fa6b18-95ae-4ce2-9e2c-be72b2f24770
+### Slide: https://notebooklm.google.com/notebook/55c9530b-5134-494c-a3c3-237acd8fd8d5?artifactId=a2204564-3007-4bc9-a8f8-c4cf2f486203
+### Quiz: https://notebooklm.google.com/notebook/55c9530b-5134-494c-a3c3-237acd8fd8d5?artifactId=77b4f89b-3ed2-4dee-965b-1d646139b7a0
 ***
-## Section x | tbd
-### Video: 
-### Slide: 
-### Quiz:
+## Section 9 | Thermal Burn
+### Video: https://notebooklm.google.com/notebook/5a193b57-0714-4de7-885d-0f6cd58843f4?artifactId=62a52134-10de-4261-afcf-797d4dd79e83
+### Slide: https://notebooklm.google.com/notebook/5a193b57-0714-4de7-885d-0f6cd58843f4?artifactId=7c5606e8-0fa7-48e2-bd25-8f0e1029833e
+### Quiz: https://notebooklm.google.com/notebook/5a193b57-0714-4de7-885d-0f6cd58843f4?artifactId=6b5570a9-b9cf-497c-b4c8-ec7f3a92fa90
 ***
-## Section x | tbd
-### Video: 
-### Slide: 
-### Quiz:
+## Section 10 | Radiation and Acoustic
+### Video: https://notebooklm.google.com/notebook/99fd9a01-55e0-45e4-9579-104c11e18723?artifactId=b4bc255b-880a-4600-977f-19af979e29a7
+### Slide: https://notebooklm.google.com/notebook/99fd9a01-55e0-45e4-9579-104c11e18723?artifactId=c2deb34b-cd44-4f17-955e-cd4219bfaad1
+### Quiz: https://notebooklm.google.com/notebook/99fd9a01-55e0-45e4-9579-104c11e18723?artifactId=af14c0c4-f579-483c-8f23-fbc16c881f0e
 ***
-## Section x | tbd
-### Video: 
-### Slide: 
-### Quiz:
+## Annex B | Test Conditions
+### Video: https://notebooklm.google.com/notebook/d0e2485d-dc28-4af9-90dc-69af390f4225?artifactId=9c0c33f1-4fe4-49ff-91f4-1d995b71cdaa
+### Slide: https://notebooklm.google.com/notebook/d0e2485d-dc28-4af9-90dc-69af390f4225?artifactId=8ddec2c4-5289-4f5f-b6b5-c566086d9303
+### Quiz: https://notebooklm.google.com/notebook/d0e2485d-dc28-4af9-90dc-69af390f4225?artifactId=1463627b-83c8-4dae-9a73-ef5930ed53bf
 ***
-## Section x | tbd
-### Video: 
-### Slide: 
-### Quiz:
+## Annex F | Markings
+### Video: https://notebooklm.google.com/notebook/bfac9623-7a12-4050-9eb8-ce7312417cfa?artifactId=8f1c49a8-4a37-4bb2-8f79-69659880aabd
+### Slide: https://notebooklm.google.com/notebook/bfac9623-7a12-4050-9eb8-ce7312417cfa?artifactId=e29b05a5-b509-409a-848a-d5dec5421d78
+### Quiz: https://notebooklm.google.com/notebook/bfac9623-7a12-4050-9eb8-ce7312417cfa?artifactId=e032f547-cc59-4232-a072-5400ff2e8582
 ***
-## Section x | tbd
+## Annex M | Batteries
+### Video: https://notebooklm.google.com/notebook/268cd340-11b0-45c6-8b3b-76df79dccc46?artifactId=94eb3b94-38cb-47e2-8106-c04c26b7e363
+### Slide: https://notebooklm.google.com/notebook/268cd340-11b0-45c6-8b3b-76df79dccc46?artifactId=221ddb98-18a4-4a5d-975a-6b72c3eb2721
+### Quiz: https://notebooklm.google.com/notebook/268cd340-11b0-45c6-8b3b-76df79dccc46?artifactId=c464e6e6-9b94-4d54-b5bb-d9a34f351458
+***
+## Annex O | Spacing Measurement
+### Video: https://notebooklm.google.com/notebook/97bfaa5c-e688-42cf-88ef-084468cfb10f?artifactId=d11fc9e3-8ccf-4233-bad8-8ed2d2a00089
+### Slide: https://notebooklm.google.com/notebook/97bfaa5c-e688-42cf-88ef-084468cfb10f?artifactId=fc5c2600-de65-4b41-a62c-eeb3e5bd32c2
+### Quiz: https://notebooklm.google.com/notebook/97bfaa5c-e688-42cf-88ef-084468cfb10f?artifactId=a16a5419-edda-44f0-8190-3636144fc9ce
+***
+## Annex P | Conductive Objects
+### Video: https://notebooklm.google.com/notebook/e0358897-7f13-4134-b70f-85b17e3cf122?artifactId=5ee130f2-c26a-4bf0-be85-1f906bd15069
+### Slide: https://notebooklm.google.com/notebook/e0358897-7f13-4134-b70f-85b17e3cf122?artifactId=34cd3d1b-82df-4573-86c6-e4d9d857d121
+### Quiz: https://notebooklm.google.com/notebook/e0358897-7f13-4134-b70f-85b17e3cf122?artifactId=95094144-df62-4b63-a594-e22a10b1e109
+***
+## Annex Q | Limited Power Source
 ### Video: 
 ### Slide: 
-### Quiz:
+### Quiz: https://notebooklm.google.com/notebook/3e6fbb83-cdbe-486a-9460-74656d6d0a97?artifactId=a1a55732-d3d4-4dbb-ad90-3198891cea01
+***
+## Annex R | Limited Short Circuit
+### Video: 
+### Slide: https://notebooklm.google.com/notebook/bf849418-a83c-4251-86c8-05fb229dc233?artifactId=d2cf96fd-8baa-48b4-a947-3a243ca1e897
+### Quiz: https://notebooklm.google.com/notebook/bf849418-a83c-4251-86c8-05fb229dc233?artifactId=1f2450cb-5483-4849-a424-e5d8166b98d9
+***
+## Annex S | Resistance to Fire
+### Video: 
+### Slide: https://notebooklm.google.com/notebook/b81d1613-b580-4251-8dd4-46070a0fdb8b?artifactId=208e7d63-305c-4e57-9eb1-2361a3626a05
+### Quiz: https://notebooklm.google.com/notebook/b81d1613-b580-4251-8dd4-46070a0fdb8b?artifactId=11f2a572-2211-4b41-aa83-c5a104de868b
+***
+## Annex T | Mechanical Tests
+### Video: 
+### Slide: 
+### Quiz: https://notebooklm.google.com/notebook/2fb716ca-1aa4-428b-a695-d4dab0ee3510?artifactId=ef2ca800-ec21-4d15-a250-c401f3fb30d9
+***
+## Annex V | Accessible Parts
+### Video: 
+### Slide: 
+### Quiz: https://notebooklm.google.com/notebook/b3330074-ae33-4ece-9901-a00f7026777a?artifactId=03d54dba-086b-4be4-a91b-213be0d17d0e
+***
+## Annex x | tb
+### Video: 
+### Slide: 
+### Quiz: 
+***
+## Annex x | tb
+### Video: 
+### Slide: 
+### Quiz: 
 ***
