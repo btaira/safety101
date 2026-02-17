@@ -63,9 +63,9 @@
 ### Quiz: https://notebooklm.google.com/notebook/96587281-52f1-4fd2-98f7-a7e9e85808ae?artifactId=7e01bb1a-bdbc-46a5-9040-4e390bc66253
 ***
 ## Section 6.4.8 | Fire Enclosure
-### Video: https://notebooklm.google.com/notebook/df319cb2-f3c1-4549-8c1d-50477094e864?artifactId=f62bf617-e26f-4212-8d90-b1c040f7969c
-### Slide: https://notebooklm.google.com/notebook/df319cb2-f3c1-4549-8c1d-50477094e864?artifactId=3f3d6ff3-c7c3-4f27-a42f-30df15b08214
-### Quiz: https://notebooklm.google.com/notebook/df319cb2-f3c1-4549-8c1d-50477094e864?artifactId=cbaa2370-8233-47d2-87db-8422cc010d58
+### Video:  
+### Slide:  
+### Quiz:  
 ***
 ## Section 6.5 | Wiring
 ### Video: https://notebooklm.google.com/notebook/0df01320-f3c9-432b-98dc-b7f6591d96f0?artifactId=433499ff-f165-4403-b02d-a4e48c428cfd
