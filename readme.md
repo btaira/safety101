@@ -28,7 +28,7 @@
 ### Quiz: https://notebooklm.google.com/notebook/88b4fa6b-34e8-44fe-a0ce-58703c568a20?artifactId=cc8a924d-05ee-4a2d-91c3-d9775e423688
 ***
 ## Section 5.4.2  | Clearances
-### Video: https://notebooklm.google.com/notebook/7a63f794-f35e-4e11-a13a-c3e9f9141c97?artifactId=65fe8102-abe0-468c-bc70-6b40b314631d
+### Video: https://notebooklm.google.com/notebook/7a63f794-f35e-4e11-a13a-c3e9f9141c97?artifactId=526d26b2-016d-441c-b190-dd1edbd0a0fe
 ### Slide: https://notebooklm.google.com/notebook/7a63f794-f35e-4e11-a13a-c3e9f9141c97?artifactId=a16f899b-f82e-45e9-a011-9a0d2929f24a
 ### Quiz: https://notebooklm.google.com/notebook/7a63f794-f35e-4e11-a13a-c3e9f9141c97?artifactId=c35aacd1-d5db-42c7-a7b5-3c4f01c16382
 ***
