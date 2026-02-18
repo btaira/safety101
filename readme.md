@@ -14,6 +14,7 @@
 ***
 ## Section 4 | General Requirements
 ### Video: https://notebooklm.google.com/notebook/072f545c-cdb4-4ac7-b8e0-65f21346b889?artifactId=4e0b01a6-2679-4674-aa39-869f2c4394e5
+### Video (train):
 ### Slide: https://notebooklm.google.com/notebook/072f545c-cdb4-4ac7-b8e0-65f21346b889?artifactId=a18f294b-e0bd-4408-b4af-5c54282e9ea9
 ### Quiz: https://notebooklm.google.com/notebook/072f545c-cdb4-4ac7-b8e0-65f21346b889?artifactId=e99535bd-972a-498c-831e-500e1e7c733c
 ***
@@ -63,7 +64,7 @@
 ### Quiz: https://notebooklm.google.com/notebook/96587281-52f1-4fd2-98f7-a7e9e85808ae?artifactId=7e01bb1a-bdbc-46a5-9040-4e390bc66253
 ***
 ## Section 6.4.8 | Fire Enclosure
-### Video:  
+### Video: https://notebooklm.google.com/notebook/df319cb2-f3c1-4549-8c1d-50477094e864?artifactId=f25c3db5-a9c5-4e9d-b9ec-25a5723301c5
 ### Slide:  
 ### Quiz: https://notebooklm.google.com/notebook/df319cb2-f3c1-4549-8c1d-50477094e864?artifactId=91eb3949-0650-4415-878f-45982905e523
 ***
@@ -118,12 +119,12 @@
 ### Quiz: https://notebooklm.google.com/notebook/e0358897-7f13-4134-b70f-85b17e3cf122?artifactId=95094144-df62-4b63-a594-e22a10b1e109
 ***
 ## Annex Q | Limited Power Source
-### Video: 
+### Video: https://notebooklm.google.com/notebook/3e6fbb83-cdbe-486a-9460-74656d6d0a97?artifactId=92c52809-cc99-4a75-a9f0-6e56695ff9a3
 ### Slide: 
 ### Quiz: https://notebooklm.google.com/notebook/3e6fbb83-cdbe-486a-9460-74656d6d0a97?artifactId=a1a55732-d3d4-4dbb-ad90-3198891cea01
 ***
 ## Annex R | Limited Short Circuit
-### Video: 
+### Video: https://notebooklm.google.com/notebook/bf849418-a83c-4251-86c8-05fb229dc233?artifactId=164926c0-c18e-416e-b6a4-fecc3ded4087
 ### Slide: https://notebooklm.google.com/notebook/bf849418-a83c-4251-86c8-05fb229dc233?artifactId=d2cf96fd-8baa-48b4-a947-3a243ca1e897
 ### Quiz: https://notebooklm.google.com/notebook/bf849418-a83c-4251-86c8-05fb229dc233?artifactId=1f2450cb-5483-4849-a424-e5d8166b98d9
 ***
@@ -133,12 +134,12 @@
 ### Quiz: https://notebooklm.google.com/notebook/b81d1613-b580-4251-8dd4-46070a0fdb8b?artifactId=11f2a572-2211-4b41-aa83-c5a104de868b
 ***
 ## Annex T | Mechanical Tests
-### Video: 
+### Video: https://notebooklm.google.com/notebook/2fb716ca-1aa4-428b-a695-d4dab0ee3510?artifactId=bb5fbec0-65a6-4ccf-9d49-40b061056505
 ### Slide: https://notebooklm.google.com/notebook/2fb716ca-1aa4-428b-a695-d4dab0ee3510?artifactId=b546f5ed-dd07-49e6-a485-d9e9d786952b
 ### Quiz: https://notebooklm.google.com/notebook/2fb716ca-1aa4-428b-a695-d4dab0ee3510?artifactId=ef2ca800-ec21-4d15-a250-c401f3fb30d9
 ***
 ## Annex V | Accessible Parts
-### Video: 
+### Video: https://notebooklm.google.com/notebook/b3330074-ae33-4ece-9901-a00f7026777a?artifactId=f8f32e1d-8ebc-41ed-ad7c-4a59f766f224
 ### Slide: 
 ### Quiz: https://notebooklm.google.com/notebook/b3330074-ae33-4ece-9901-a00f7026777a?artifactId=03d54dba-086b-4be4-a91b-213be0d17d0e
 ***
