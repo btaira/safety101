@@ -4,12 +4,12 @@
 ***
 ##  Section 0 | Principles
 ### Video-Train: https://notebooklm.google.com/notebook/94371811-0267-4c76-a272-0b49d2e52a43?artifactId=05f15e8a-d940-47af-a432-d9f6d8093dce 
-### Slide: 
-### Voice Prezo: 
+### Slide: https://notebooklm.google.com/notebook/94371811-0267-4c76-a272-0b49d2e52a43?artifactId=51612d69-e517-4321-a16e-050f1caefd42
+### Voice Prezo: https://docs.google.com/videos/d/1N__1JUFVPrbRo9hRvpd3rbefcSgSbMQtnkoG6ZftEUU/edit?usp=sharing
 ### Quiz: https://notebooklm.google.com/notebook/94371811-0267-4c76-a272-0b49d2e52a43?artifactId=a02d98b6-cf14-42f5-84f6-d6b4e7d3ad2a
 ***
 ## Section 1 | Scope and Definition
-### Video-Train: 
+### Video-Train: https://notebooklm.google.com/notebook/829b3633-b6a0-4c79-b203-1db386ff324f?artifactId=1e4ad755-9b20-49e6-83c1-fe92615a5449
 ### Slide: 
 ### Voice Prezo: 
 ### Quiz: https://notebooklm.google.com/notebook/829b3633-b6a0-4c79-b203-1db386ff324f?artifactId=ae152941-caf7-4371-a504-3355459530fb
@@ -17,32 +17,32 @@
 ## Section 4 | General Requirements
 ### Video: https://notebooklm.google.com/notebook/072f545c-cdb4-4ac7-b8e0-65f21346b889?artifactId=4e0b01a6-2679-4674-aa39-869f2c4394e5
 ### Video (train): https://notebooklm.google.com/notebook/072f545c-cdb4-4ac7-b8e0-65f21346b889?artifactId=6dcea68d-8758-4d39-beae-9fcc75208072
-### Slide: 
-### Voice Prezo: 
+### Slide: https://notebooklm.google.com/notebook/072f545c-cdb4-4ac7-b8e0-65f21346b889?artifactId=2a06a1c7-d1fd-409c-b873-6e6120da4d5a
+### Voice Prezo: https://docs.google.com/videos/d/1Cg6xog5fdMOLqRVDaGYdyQ2hDl5gPctSS5HZEUjT_Eg/edit?usp=sharing
 ### Quiz: https://notebooklm.google.com/notebook/072f545c-cdb4-4ac7-b8e0-65f21346b889?artifactId=e99535bd-972a-498c-831e-500e1e7c733c
 ***
 ## Section 5 | Electrical Injury
 ### Video: https://notebooklm.google.com/notebook/1b0cda5d-bd90-40a4-98b8-6efa82d84ae6?artifactId=d67df7ed-95ce-465c-94b9-0fcc6a23ecc2
-### Slide: 
-### Voice Prezo: 
+### Slide: https://notebooklm.google.com/notebook/1b0cda5d-bd90-40a4-98b8-6efa82d84ae6?artifactId=c9dc39d4-74c2-4e66-8f9d-03864c139f60
+### Voice Prezo: https://docs.google.com/videos/d/1lpKRLakRFWpW4wPgQIadiaqL3UI3lLgL-DnSFChEqtk/edit?usp=sharing
 ### Quiz: https://notebooklm.google.com/notebook/1b0cda5d-bd90-40a4-98b8-6efa82d84ae6?artifactId=9fa5a45d-949d-4133-bbe0-0a3d818a8303
 ***
 ## Section 5.4 | Insulation
 ### Video: https://notebooklm.google.com/notebook/88b4fa6b-34e8-44fe-a0ce-58703c568a20?artifactId=f59c79f0-33c8-453d-b1b9-ba02a40b9b4d
-### Slide: 
-### Voice Prezo: 
+### Slide: https://notebooklm.google.com/notebook/88b4fa6b-34e8-44fe-a0ce-58703c568a20?artifactId=fb5e3581-4fda-44e4-b284-5fa341a6bd89
+### Voice Prezo: https://docs.google.com/videos/d/1S7L8qbOmK2W96IEz7L8ohkhPQ_9bNOu0eh1ol_8npUw/edit?usp=sharing
 ### Quiz: https://notebooklm.google.com/notebook/88b4fa6b-34e8-44fe-a0ce-58703c568a20?artifactId=cc8a924d-05ee-4a2d-91c3-d9775e423688
 ***
 ## Section 5.4.2  | Clearances
 ### Video: https://notebooklm.google.com/notebook/7a63f794-f35e-4e11-a13a-c3e9f9141c97?artifactId=526d26b2-016d-441c-b190-dd1edbd0a0fe
-### Slide: 
-### Voice Prezo: 
+### Slide: https://notebooklm.google.com/notebook/7a63f794-f35e-4e11-a13a-c3e9f9141c97?artifactId=534d1db2-5c32-4010-b9db-aed25fb8f33c
+### Voice Prezo: https://docs.google.com/videos/d/12Jw5JkfkS3VjRv9y-T3_aPFIYjHv5-ELTEjAmb1kbSk/edit?usp=sharing
 ### Quiz: https://notebooklm.google.com/notebook/7a63f794-f35e-4e11-a13a-c3e9f9141c97?artifactId=c35aacd1-d5db-42c7-a7b5-3c4f01c16382
 ***
 ## Section 5.4.3  | Creepage
 ### Video: https://notebooklm.google.com/notebook/a4242b61-7b85-41e2-9d05-0e120d2f8e8d?artifactId=20e80b62-6124-413f-b363-842bbd845d6d
-### Slide: 
-### Voice Prezo: 
+### Slide: https://notebooklm.google.com/notebook/db6d8829-75ea-4fb2-9b62-b29a6ac3d6cd?artifactId=5707189e-5ce2-4ba6-a3f8-7c329f200b97
+### Voice Prezo: https://docs.google.com/videos/d/1lSOjYYJ_GWpj-10qd0TXT0DmotrkJxAc70sK2uf41EA/edit?usp=sharing
 ### Quiz: https://notebooklm.google.com/notebook/a4242b61-7b85-41e2-9d05-0e120d2f8e8d?artifactId=cd4f7e90-f286-4c73-9965-298ffb6d283c
 ***
 ## Section 5.4.4 | Solid Insulation
@@ -53,8 +53,8 @@
 ***
 ## Section 5.4.9 | Electric Strength
 ### Video: https://notebooklm.google.com/notebook/db6d8829-75ea-4fb2-9b62-b29a6ac3d6cd?artifactId=93e1c0ac-8379-4232-91aa-9c4060ecaf24 
-### Slide: 
-### Voice Prezo: 
+### Slide: https://notebooklm.google.com/notebook/db6d8829-75ea-4fb2-9b62-b29a6ac3d6cd?artifactId=5707189e-5ce2-4ba6-a3f8-7c329f200b97
+### Voice Prezo: https://docs.google.com/videos/d/17-knaPjBDYG-xD9TJ8mn3jBhaHqrhILpaPCQa29hdZQ/edit?usp=sharing
 ### Quiz: https://notebooklm.google.com/notebook/db6d8829-75ea-4fb2-9b62-b29a6ac3d6cd?artifactId=4daaaca3-097e-4d06-903c-7b43b3e5d0f8
 ***
 ## Section 5.5 | Components
