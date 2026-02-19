@@ -10,8 +10,8 @@
 ***
 ## Section 1 | Scope and Definition
 ### Video-Train: https://notebooklm.google.com/notebook/829b3633-b6a0-4c79-b203-1db386ff324f?artifactId=1e4ad755-9b20-49e6-83c1-fe92615a5449
-### Slide: 
-### Voice Prezo: 
+### Slide: https://notebooklm.google.com/notebook/829b3633-b6a0-4c79-b203-1db386ff324f?artifactId=f8dcb1b6-3cdc-429f-850a-55371dcf3b98
+### Voice Prezo: https://docs.google.com/videos/d/1wXZjbEPLAubuTVheuOrB768U76df_lTBqX4vKCWuNNg/edit?usp=sharing
 ### Quiz: https://notebooklm.google.com/notebook/829b3633-b6a0-4c79-b203-1db386ff324f?artifactId=ae152941-caf7-4371-a504-3355459530fb
 ***
 ## Section 4 | General Requirements
@@ -47,8 +47,8 @@
 ***
 ## Section 5.4.4 | Solid Insulation
 ### Video: https://notebooklm.google.com/notebook/9b431a62-e2af-4d56-ba2b-559323403d81?artifactId=4f80631b-b78a-443f-8faa-bfa683b1d7c0
-### Slide: 
-### Voice Prezo: 
+### Slide: https://notebooklm.google.com/notebook/9b431a62-e2af-4d56-ba2b-559323403d81?artifactId=f4726d75-90e7-44be-a8b5-53939dfb138a
+### Voice Prezo: https://docs.google.com/videos/d/13KZcnU16aQX9Lo460rqaVpcuGiHqxa_SEUuenhySqVg/edit?usp=sharing
 ### Quiz: https://notebooklm.google.com/notebook/9b431a62-e2af-4d56-ba2b-559323403d81?artifactId=a5d6ebf2-b0bf-4c7e-80f6-af03cf46ad17
 ***
 ## Section 5.4.9 | Electric Strength
