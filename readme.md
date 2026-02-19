@@ -59,20 +59,20 @@
 ***
 ## Section 5.5 | Components
 ### Video: https://notebooklm.google.com/notebook/c878aa9f-b055-4db2-8a1d-4d2cd28d6fb2?artifactId=3bb6e6c5-059a-4fec-99c0-ce7219b7fa5c
-### Slide: 
-### Voice Prezo: 
+### Slide: https://notebooklm.google.com/notebook/c878aa9f-b055-4db2-8a1d-4d2cd28d6fb2?artifactId=671b0320-8ae3-41c7-b6ed-472c1c7defd2
+### Voice Prezo: https://docs.google.com/videos/d/1TugwcgK4odgVeeLtORSz-rwSsRaXN2Nfno4m_wHq_fM/edit?usp=sharing
 ### Quiz: https://notebooklm.google.com/notebook/c878aa9f-b055-4db2-8a1d-4d2cd28d6fb2?artifactId=795647f6-cb30-452d-8b20-f0c98cfccc7c
 ***
 ## Section 5.6 | Protective Conductor
 ### Video: https://notebooklm.google.com/notebook/4a1a505a-f05f-456e-bb94-d9d9d0134592?artifactId=179a5971-f5fd-42a4-8149-83ab4356cfcc
-### Slide: 
-### Voice Prezo: 
+### Slide: https://notebooklm.google.com/notebook/4a1a505a-f05f-456e-bb94-d9d9d0134592?artifactId=e3ca5b30-3944-4984-b82a-083a820efdfa
+### Voice Prezo: https://docs.google.com/videos/d/18AH_4u93avEnWE4XVOUeoy_FNTC9Aa8fxrC3IJ8CB1M/edit?usp=sharing
 ### Quiz: https://notebooklm.google.com/notebook/4a1a505a-f05f-456e-bb94-d9d9d0134592?artifactId=b23318b3-0004-47ac-85a2-fd587c21c822
 ***
 ## Section 5.7 | Touch Current
 ### Video: https://notebooklm.google.com/notebook/9aabb1f3-f6ce-4ea6-8fef-5c4bda12df5c?artifactId=555f6e89-cff4-451f-a267-588bc03e5758
-### Slide: 
-### Voice Prezo: 
+### Slide: https://notebooklm.google.com/notebook/9aabb1f3-f6ce-4ea6-8fef-5c4bda12df5c?artifactId=1993cff2-028b-492d-b955-20ccdb08ad29
+### Voice Prezo: https://docs.google.com/videos/d/1WVHwg77heBcGBShZnPnqAmOK23O7fowtSrrFOSJIuJg/edit?usp=sharing
 ### Quiz: https://notebooklm.google.com/notebook/9aabb1f3-f6ce-4ea6-8fef-5c4bda12df5c?artifactId=36731aa9-bcd9-4df2-824d-486fba0a14b8
 ***
 ## Section 6 | Fire
