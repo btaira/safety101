@@ -3,82 +3,82 @@
 # Video | Slide | Quiz <br>
 ***
 ##  Section 0 | Principles
-### Video: https://notebooklm.google.com/notebook/94371811-0267-4c76-a272-0b49d2e52a43?artifactId=05f15e8a-d940-47af-a432-d9f6d8093dce 
-### Slide: https://notebooklm.google.com/notebook/94371811-0267-4c76-a272-0b49d2e52a43?artifactId=2c608334-f8db-4849-a54a-4a732c3a8ad4  
+### Video-Train: https://notebooklm.google.com/notebook/94371811-0267-4c76-a272-0b49d2e52a43?artifactId=05f15e8a-d940-47af-a432-d9f6d8093dce 
+### Slide: 
 ### Voice Prezo: 
 ### Quiz: https://notebooklm.google.com/notebook/94371811-0267-4c76-a272-0b49d2e52a43?artifactId=a02d98b6-cf14-42f5-84f6-d6b4e7d3ad2a
 ***
 ## Section 1 | Scope and Definition
-### Video: https://notebooklm.google.com/notebook/829b3633-b6a0-4c79-b203-1db386ff324f?artifactId=04b23dcf-d89c-4066-9df6-977be4737e01
-### Slide: https://notebooklm.google.com/notebook/829b3633-b6a0-4c79-b203-1db386ff324f?artifactId=0c60eaa5-65fc-439f-822d-145f4527516b
+### Video-Train: 
+### Slide: 
 ### Voice Prezo: 
 ### Quiz: https://notebooklm.google.com/notebook/829b3633-b6a0-4c79-b203-1db386ff324f?artifactId=ae152941-caf7-4371-a504-3355459530fb
 ***
 ## Section 4 | General Requirements
 ### Video: https://notebooklm.google.com/notebook/072f545c-cdb4-4ac7-b8e0-65f21346b889?artifactId=4e0b01a6-2679-4674-aa39-869f2c4394e5
 ### Video (train): https://notebooklm.google.com/notebook/072f545c-cdb4-4ac7-b8e0-65f21346b889?artifactId=6dcea68d-8758-4d39-beae-9fcc75208072
-### Slide: https://notebooklm.google.com/notebook/072f545c-cdb4-4ac7-b8e0-65f21346b889?artifactId=a18f294b-e0bd-4408-b4af-5c54282e9ea9
+### Slide: 
 ### Voice Prezo: 
 ### Quiz: https://notebooklm.google.com/notebook/072f545c-cdb4-4ac7-b8e0-65f21346b889?artifactId=e99535bd-972a-498c-831e-500e1e7c733c
 ***
 ## Section 5 | Electrical Injury
 ### Video: https://notebooklm.google.com/notebook/1b0cda5d-bd90-40a4-98b8-6efa82d84ae6?artifactId=d67df7ed-95ce-465c-94b9-0fcc6a23ecc2
-### Slide: https://notebooklm.google.com/notebook/1b0cda5d-bd90-40a4-98b8-6efa82d84ae6?artifactId=37ee6832-7298-48e8-b872-a7d52d0c7eac
+### Slide: 
 ### Voice Prezo: 
 ### Quiz: https://notebooklm.google.com/notebook/1b0cda5d-bd90-40a4-98b8-6efa82d84ae6?artifactId=9fa5a45d-949d-4133-bbe0-0a3d818a8303
 ***
 ## Section 5.4 | Insulation
 ### Video: https://notebooklm.google.com/notebook/88b4fa6b-34e8-44fe-a0ce-58703c568a20?artifactId=f59c79f0-33c8-453d-b1b9-ba02a40b9b4d
-### Slide: https://notebooklm.google.com/notebook/88b4fa6b-34e8-44fe-a0ce-58703c568a20?artifactId=b79a1734-61fc-4cf8-897a-29486e3ddd9a
+### Slide: 
 ### Voice Prezo: 
 ### Quiz: https://notebooklm.google.com/notebook/88b4fa6b-34e8-44fe-a0ce-58703c568a20?artifactId=cc8a924d-05ee-4a2d-91c3-d9775e423688
 ***
 ## Section 5.4.2  | Clearances
 ### Video: https://notebooklm.google.com/notebook/7a63f794-f35e-4e11-a13a-c3e9f9141c97?artifactId=526d26b2-016d-441c-b190-dd1edbd0a0fe
-### Slide: https://notebooklm.google.com/notebook/7a63f794-f35e-4e11-a13a-c3e9f9141c97?artifactId=a16f899b-f82e-45e9-a011-9a0d2929f24a
+### Slide: 
 ### Voice Prezo: 
 ### Quiz: https://notebooklm.google.com/notebook/7a63f794-f35e-4e11-a13a-c3e9f9141c97?artifactId=c35aacd1-d5db-42c7-a7b5-3c4f01c16382
 ***
 ## Section 5.4.3  | Creepage
 ### Video: https://notebooklm.google.com/notebook/a4242b61-7b85-41e2-9d05-0e120d2f8e8d?artifactId=20e80b62-6124-413f-b363-842bbd845d6d
-### Slide: https://notebooklm.google.com/notebook/a4242b61-7b85-41e2-9d05-0e120d2f8e8d?artifactId=b9fa0010-4fc9-41fd-83b4-97df75b37e82
+### Slide: 
 ### Voice Prezo: 
 ### Quiz: https://notebooklm.google.com/notebook/a4242b61-7b85-41e2-9d05-0e120d2f8e8d?artifactId=cd4f7e90-f286-4c73-9965-298ffb6d283c
 ***
 ## Section 5.4.4 | Solid Insulation
 ### Video: https://notebooklm.google.com/notebook/9b431a62-e2af-4d56-ba2b-559323403d81?artifactId=4f80631b-b78a-443f-8faa-bfa683b1d7c0
-### Slide: https://notebooklm.google.com/notebook/9b431a62-e2af-4d56-ba2b-559323403d81?artifactId=e50244f5-9943-4b37-b0ec-5e72bbd4dacf
+### Slide: 
 ### Voice Prezo: 
 ### Quiz: https://notebooklm.google.com/notebook/9b431a62-e2af-4d56-ba2b-559323403d81?artifactId=a5d6ebf2-b0bf-4c7e-80f6-af03cf46ad17
 ***
 ## Section 5.4.9 | Electric Strength
 ### Video: https://notebooklm.google.com/notebook/db6d8829-75ea-4fb2-9b62-b29a6ac3d6cd?artifactId=93e1c0ac-8379-4232-91aa-9c4060ecaf24 
-### Slide: https://notebooklm.google.com/notebook/db6d8829-75ea-4fb2-9b62-b29a6ac3d6cd?artifactId=85ceb4fc-52df-4ee4-864e-adb526ebf17d
+### Slide: 
 ### Voice Prezo: 
 ### Quiz: https://notebooklm.google.com/notebook/db6d8829-75ea-4fb2-9b62-b29a6ac3d6cd?artifactId=4daaaca3-097e-4d06-903c-7b43b3e5d0f8
 ***
 ## Section 5.5 | Components
 ### Video: https://notebooklm.google.com/notebook/c878aa9f-b055-4db2-8a1d-4d2cd28d6fb2?artifactId=3bb6e6c5-059a-4fec-99c0-ce7219b7fa5c
-### Slide: https://notebooklm.google.com/notebook/c878aa9f-b055-4db2-8a1d-4d2cd28d6fb2?artifactId=a9662a52-9147-43e8-9963-d35fbe97ac4c
+### Slide: 
 ### Voice Prezo: 
 ### Quiz: https://notebooklm.google.com/notebook/c878aa9f-b055-4db2-8a1d-4d2cd28d6fb2?artifactId=795647f6-cb30-452d-8b20-f0c98cfccc7c
 ***
 ## Section 5.6 | Protective Conductor
 ### Video: https://notebooklm.google.com/notebook/4a1a505a-f05f-456e-bb94-d9d9d0134592?artifactId=179a5971-f5fd-42a4-8149-83ab4356cfcc
-### Slide: https://notebooklm.google.com/notebook/4a1a505a-f05f-456e-bb94-d9d9d0134592?artifactId=0a05cba2-6cba-4a9b-89cf-a5695340f192
+### Slide: 
 ### Voice Prezo: 
 ### Quiz: https://notebooklm.google.com/notebook/4a1a505a-f05f-456e-bb94-d9d9d0134592?artifactId=b23318b3-0004-47ac-85a2-fd587c21c822
 ***
 ## Section 5.7 | Touch Current
 ### Video: https://notebooklm.google.com/notebook/9aabb1f3-f6ce-4ea6-8fef-5c4bda12df5c?artifactId=555f6e89-cff4-451f-a267-588bc03e5758
-### Slide: https://notebooklm.google.com/notebook/9aabb1f3-f6ce-4ea6-8fef-5c4bda12df5c?artifactId=c3028381-4fc2-467c-9799-d1b1e70cb389
+### Slide: 
 ### Voice Prezo: 
 ### Quiz: https://notebooklm.google.com/notebook/9aabb1f3-f6ce-4ea6-8fef-5c4bda12df5c?artifactId=36731aa9-bcd9-4df2-824d-486fba0a14b8
 ***
 ## Section 6 | Fire
 ### Video: https://notebooklm.google.com/notebook/96587281-52f1-4fd2-98f7-a7e9e85808ae?artifactId=15e9d893-0c94-4bcb-93c1-9a7017a30f41
-### Slide: https://notebooklm.google.com/notebook/96587281-52f1-4fd2-98f7-a7e9e85808ae?artifactId=68d69194-8648-4bef-9931-1e3edcdeab85
-### Voice Prezo: 
+### Slide: https://notebooklm.google.com/notebook/96587281-52f1-4fd2-98f7-a7e9e85808ae?artifactId=ed2da6b7-34a0-4e74-af20-80413cd1beb1
+### Voice Prezo: https://docs.google.com/videos/d/1MD-IdhT9Ttv_kIqmcZuVK7OBcsXDMa3BzAJo8LKO_wo/edit?usp=sharing
 ### Quiz: https://notebooklm.google.com/notebook/96587281-52f1-4fd2-98f7-a7e9e85808ae?artifactId=7e01bb1a-bdbc-46a5-9040-4e390bc66253
 ***
 ## Section 6.4.8 | Fire Enclosure
@@ -90,31 +90,31 @@
 ## Section 6.5 | Wiring
 ### Video: https://notebooklm.google.com/notebook/0df01320-f3c9-432b-98dc-b7f6591d96f0?artifactId=433499ff-f165-4403-b02d-a4e48c428cfd
 ### Slide: https://notebooklm.google.com/notebook/0df01320-f3c9-432b-98dc-b7f6591d96f0?artifactId=27240d82-b8a4-4026-8f39-3f816c72eb8a
-### Voice Prezo: 
+### Voice Prezo: https://docs.google.com/videos/d/1UV3wYJVn14s9lRB3x-G9fuwihBMhvSvLlB4Sug6dpLI/edit?usp=sharing
 ### Quiz: https://notebooklm.google.com/notebook/0df01320-f3c9-432b-98dc-b7f6591d96f0?artifactId=c7de2821-fb28-4729-9d22-5efc9f3ee2ce
 ***
 ## Section 7 | Hazardous Substances
 ### Video: https://notebooklm.google.com/notebook/531c2f34-6ce3-48ef-a906-4efe40c7d1e2?artifactId=5d5d7abb-920b-4e56-ade6-3aa38148d521
-### Slide: https://notebooklm.google.com/notebook/531c2f34-6ce3-48ef-a906-4efe40c7d1e2?artifactId=53e7f517-984a-4647-ac44-857cb992cc31
-### Voice Prezo: 
+### Slide: https://notebooklm.google.com/notebook/531c2f34-6ce3-48ef-a906-4efe40c7d1e2?artifactId=cd7e143c-8f4d-49e6-acd8-6f50544b9a19
+### Voice Prezo: https://docs.google.com/videos/d/1iqjrqPiRtiFdt4V0p8cW0dkgHEV3q1ydWLi-jneOE7g/edit?usp=sharing
 ### Quiz: https://notebooklm.google.com/notebook/531c2f34-6ce3-48ef-a906-4efe40c7d1e2?artifactId=b226abdc-b6dc-4d64-a339-24c36fbd4040
 ***
 ## Section 8 | Mechanical
 ### Video: https://notebooklm.google.com/notebook/55c9530b-5134-494c-a3c3-237acd8fd8d5?artifactId=60fa6b18-95ae-4ce2-9e2c-be72b2f24770
-### Slide: https://notebooklm.google.com/notebook/55c9530b-5134-494c-a3c3-237acd8fd8d5?artifactId=a2204564-3007-4bc9-a8f8-c4cf2f486203
-### Voice Prezo: 
+### Slide: https://notebooklm.google.com/notebook/55c9530b-5134-494c-a3c3-237acd8fd8d5?artifactId=1a4d317a-223d-43b1-828e-a5eb64bb05cd
+### Voice Prezo: https://docs.google.com/videos/d/1Xqud2tnqI2I-Wrq4jkN68bpFdnmpaDpI25GtNiUhySY/edit?usp=sharing
 ### Quiz: https://notebooklm.google.com/notebook/55c9530b-5134-494c-a3c3-237acd8fd8d5?artifactId=77b4f89b-3ed2-4dee-965b-1d646139b7a0
 ***
 ## Section 9 | Thermal Burn
 ### Video: https://notebooklm.google.com/notebook/5a193b57-0714-4de7-885d-0f6cd58843f4?artifactId=62a52134-10de-4261-afcf-797d4dd79e83
-### Slide: https://notebooklm.google.com/notebook/5a193b57-0714-4de7-885d-0f6cd58843f4?artifactId=7c5606e8-0fa7-48e2-bd25-8f0e1029833e
-### Voice Prezo: 
+### Slide: https://notebooklm.google.com/notebook/5a193b57-0714-4de7-885d-0f6cd58843f4?artifactId=005565fc-4566-4cce-a9b3-5bf8b199155d
+### Voice Prezo: https://docs.google.com/videos/d/13Os6HeewS0uQNzGgOoSmJKOqbnfUTRq4c6Z--uZ2CTQ/edit?usp=sharing
 ### Quiz: https://notebooklm.google.com/notebook/5a193b57-0714-4de7-885d-0f6cd58843f4?artifactId=6b5570a9-b9cf-497c-b4c8-ec7f3a92fa90
 ***
 ## Section 10 | Radiation and Acoustic
 ### Video: https://notebooklm.google.com/notebook/99fd9a01-55e0-45e4-9579-104c11e18723?artifactId=b4bc255b-880a-4600-977f-19af979e29a7
-### Slide: https://notebooklm.google.com/notebook/99fd9a01-55e0-45e4-9579-104c11e18723?artifactId=c2deb34b-cd44-4f17-955e-cd4219bfaad1
-### Voice Prezo: 
+### Slide: https://notebooklm.google.com/notebook/99fd9a01-55e0-45e4-9579-104c11e18723?artifactId=b80cb7b9-c6b8-4d4b-9f03-ad5f6c0dec6b
+### Voice Prezo: https://docs.google.com/videos/d/1uOKciuegUvg4HyfGm2WjF8uTGh8EYy6jAO3AWWLPK9I/edit?usp=sharing
 ### Quiz: https://notebooklm.google.com/notebook/99fd9a01-55e0-45e4-9579-104c11e18723?artifactId=af14c0c4-f579-483c-8f23-fbc16c881f0e
 ***
 ## Annex B | Test Conditions
@@ -125,8 +125,8 @@
 ***
 ## Annex F | Markings
 ### Video: https://notebooklm.google.com/notebook/bfac9623-7a12-4050-9eb8-ce7312417cfa?artifactId=8f1c49a8-4a37-4bb2-8f79-69659880aabd
-### Slide: https://notebooklm.google.com/notebook/bfac9623-7a12-4050-9eb8-ce7312417cfa?artifactId=e29b05a5-b509-409a-848a-d5dec5421d78
-### Voice Prezo: 
+### Slide: https://notebooklm.google.com/notebook/bfac9623-7a12-4050-9eb8-ce7312417cfa?artifactId=97c43ee3-58c0-43e6-a0bf-5cc1ddce59ae
+### Voice Prezo: https://docs.google.com/videos/d/1IyIGDiVVjiw1FMzVELLQRj-gWXdN7npoZY2IavVR2iI/edit?usp=sharing
 ### Quiz: https://notebooklm.google.com/notebook/bfac9623-7a12-4050-9eb8-ce7312417cfa?artifactId=e032f547-cc59-4232-a072-5400ff2e8582
 ***
 ## Annex M | Batteries
